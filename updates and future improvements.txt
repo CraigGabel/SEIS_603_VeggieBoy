@@ -1,0 +1,28 @@
+More efficient screen re-draw
+    don't repaint whole screen, only rectangles that move
+Sounds
+    Collisions
+    Music
+Display
+    Intro screen, create one
+        Simple version
+            Includes brief instructions and game buttons
+        Complex
+            Similar or more detailed instructions
+            Options link
+                Enable/disable sound (if it is added)
+                Ability to change controls
+    Pause screen, add game instructions?
+    Game over screen,
+    Make taunts/game mode text easier to see
+Game play
+    Record previous scores, high score list w/ names
+    Vegetable motion
+        Diagonal
+        Non-straight patterns
+            Sinusoidal
+            Arc
+            “lean” towards player
+    Tweak screen dimensions and player/vegetable dimensions
+Code design
+    More classes? Seems like veggieBoy.py does too many different things.
