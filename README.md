@@ -3,3 +3,5 @@ A silly game.  You are a smiley face (control with arrow keys), you want to avoi
 Requires installation of pygame.
 
 Run veggieboy.py to play
+
+Screenshot: https://imgur.com/a/n4AMLwi
